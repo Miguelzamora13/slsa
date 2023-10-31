@@ -25,7 +25,7 @@ See https://slsa.dev/community for ways to get involved in SLSA development.
 
 ## Active workstreams
 
-| Workstream | [Shepherd] |
+| Workstream | [Project] |
 | ---------- | ---------- |
 | [Build Level 4] | David A Wheeler (@david-a-wheeler) |
 | [Hardware Attested Platforms] | Marcela Melara (@marcelamelara), Chad Kimes (@chkimes) |
